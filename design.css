@@ -4,4 +4,10 @@ body {
 
 h1 {
   font-family: "Georgia", serif;
+  color: #b5377;
+}
+
+h2, h3, p {
+  font-family: "Geogria", serif;
+  color: #ffffff;
 }
