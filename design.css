@@ -1,13 +1,13 @@
 body {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 
 h1 {
   font-family: "Georgia", serif;
-  color: #ffffff;
+  color: #000000;
 }
 
 h2, h3, p, ft {
   font-family: "Geogria", serif;
-  color: #ffffff;
+  color: #000000;
 }
