@@ -6,6 +6,11 @@ img {
 width: 150px;
 }
 
+img2 {
+width: 400px;
+}
+
+
 h1, h2, h3, p, ft {
   font-family: "Geogria", serif;
   color: #000000;
